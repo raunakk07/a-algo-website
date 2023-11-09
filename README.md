@@ -1,13 +1,2 @@
-# AStar
-
-AStar example with community contributions.
-
-https://codingtrain.github.io/AStar/
-
-Original source code:
-- https://github.com/CodingTrain/Rainbow-Code/tree/master/challenges/CC_51_astar
-
-Video tutorial:
-- [Part 1](https://www.youtube.com/watch?v=aKYlikFAV4k)
-- [Part 2](https://www.youtube.com/watch?v=EaZxUCWAjb0)
-- [Part 3](https://www.youtube.com/watch?v=jwRT4PCT6RU)
+In this project, I've developed the A* algorithm from the ground up and showcased its functionality on a dynamic website. The website features an interactive visualization of the A* algorithm, allowing users to observe real-time pathfinding. Parameters can be customized, enabling users to explore the algorithm's responsiveness. Additionally, the website provides educational resources, including tutorials and articles, to enhance understanding and application of the A* algorithm.
+🌟
